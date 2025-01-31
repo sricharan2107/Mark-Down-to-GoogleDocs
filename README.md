@@ -1,9 +1,9 @@
-# 📄 Automated Markdown to Google Docs Formatter  
+#  Automated Markdown to Google Docs Formatter  
 
-## **🚀 Project Overview**  
+## ** Project Overview**  
 This project automates the process of **converting Markdown meeting notes** into a **well-formatted Google Docs document** with proper indentation, bullet points, checkboxes, and structured headings.  
 
-### **🌟 Features**
+### ** Features**
 Converts **Markdown text** into a structured Google Docs document  
  Maintains proper **heading hierarchy**:  
    - `#` → **Heading 1**  
