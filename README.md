@@ -14,7 +14,7 @@ Converts **Markdown text** into a structured Google Docs document
    - `2 spaces` → **8-space equivalent** in Google Docs  
  Converts Markdown **`- [ ]` checkboxes** into **Google Docs checkboxes**  
  Highlights **assignee mentions (`@name`)** in **bold blue**  
- **Italicizes and grays out footer text** (e.g., "Meeting recorded by...")  
+ **Italicizes and grays out footer text** (Meeting recorded by...)  
  Clears existing document content before inserting new formatted text  
 
 ---
